@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class TestAccount {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Cuen    ta de ahorros");
+        System.out.println("Cuenta de ahorros");
         System.out.print("Ingrese el saldo inicial: $");
         float initialBalanceSavings = input.nextFloat();
         System.out.print("Ingrese la tasa de interes: ");
